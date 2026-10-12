@@ -1,0 +1,15 @@
+{
+  "name": "mini-shopping-assistant",
+  "version": "1.0.0",
+  "description": "AI-Powered Mini Shopping Assistant with grounded recommendations and deterministic product logic",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix server && npm run build --prefix client",
+    "seed": "npm run seed --prefix server",
+    "test": "npm run test --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
