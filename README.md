@@ -29,10 +29,13 @@ SmartCart AI aims to bridge the gap between traditional product browsing and int
 ## 📸 Project Screenshots
 
 ### Screenshot 1
-![SmartCart AI Screenshot 1](image1.jpeg)
+<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/67a890d1-56cb-4985-a37c-adc916a46b53" />
+
 
 ### Screenshot 2
-![SmartCart AI Screenshot 2](image2.jpeg)
+<img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/494d77fd-ec1f-4d87-aebe-3866c5828cd2" />
+
 
 ### Screenshot 3
-![SmartCart AI Screenshot 3](image3.jpeg)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/01a79fc4-5419-4790-b15e-fc6a62b444d2" />
+
