@@ -180,7 +180,7 @@ describe('SecurityService (Confidentiality Guardrail Engine)', () => {
 
     it('replaces responses leaking Google API keys with exact refusal', () => {
       const leakedResponse =
-        'Here is the key you requested: AIzaSyD98374982347982374982374982374892';
+        'Here is the key you requested: AIzaSyFAKE_TEST_KEY_NOT_REAL';
       expect(securityService.sanitizeOutput(leakedResponse)).toBe(EXACT_REFUSAL);
     });
 

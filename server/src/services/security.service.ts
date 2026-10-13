@@ -271,7 +271,7 @@ export class SecurityService {
 
     // Signatures of internal leaks:
     const leakSignatures: RegExp[] = [
-      /AIzaSy[A-Za-z0-9_-]{33}/, // Google API key format
+      /AIzaSy[A-Za-z0-9_-]{10,}/, // Google API key format
       /process\.env\./,
       /GEMINI_API_KEY/i,
       /DATABASE_FILE/i,
